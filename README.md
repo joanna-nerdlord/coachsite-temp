@@ -28,3 +28,5 @@ dystrybucji na Canva, Wix i Squarespace. Zero JavaScriptu w layoucie
 - Fonty: Cormorant Garamond / Pinyon Script / Jost (Google Fonts — są też w Canvie).
 
 
+
+
