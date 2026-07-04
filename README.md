@@ -26,3 +26,5 @@ dystrybucji na Canva, Wix i Squarespace. Zero JavaScriptu w layoucie
 - Placeholdery zdjęć = beżowe bloki `✦ IMAGE` (klasa `.ph`) — podmień na Midjourney.
 - Kolory: zmienne w `:root` w `styles.css` (jedna edycja = cała paleta).
 - Fonty: Cormorant Garamond / Pinyon Script / Jost (Google Fonts — są też w Canvie).
+
+
